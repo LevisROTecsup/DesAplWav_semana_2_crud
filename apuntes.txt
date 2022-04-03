@@ -1,0 +1,9 @@
+npm init -y
+npm i express
+npm i nodemon -D
+npm run dev
+
+Solucion a mi error
+==================
+npm i -g @babel/node
+
